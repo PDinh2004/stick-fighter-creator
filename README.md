@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 [GIF Url](https://i.gyazo.com/d30be59441071c3649f0f9585873e6b0.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap and Gyazo
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
